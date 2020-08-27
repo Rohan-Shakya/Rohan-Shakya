@@ -13,6 +13,7 @@
 [<img align="left" alt="Rohan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Rohan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Rohan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Rohan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
 <br />
 
@@ -43,3 +44,4 @@
 [facebook]: https://www.facebook.com/profile.php?id=100010495748087
 [instagram]: https://www.instagram.com/rohan_saqya/
 [linkedin]: https://www.linkedin.com/in/rohan-shakya/
+[medium]: https://medium.com/@rohanshakya254
