@@ -2,9 +2,9 @@
 
 ## I'm a Student and Developer!
 
-- 🔭 I’m studying BCA in Sagarmatha College of Science and Technology
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects & learn more
+- 🔭 I’m studying Bachelor's in Sagarmatha College of Science and Technology.
+- 🌱 I’m currently learning everything. 🤣
+- 🥅 2020 Goals: Contribute more to Open Source projects & learn more.
 - ⚡ Fun fact: I love to draw and listen musics.
 
 ### Connect with me:
@@ -17,7 +17,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and tools that  I used:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
