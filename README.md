@@ -37,7 +37,12 @@
 
 ## <br />
 
-![Rohan's github stats](https://github-readme-stats.vercel.app/api?username=Rohan-Shakya&show_icons=true&theme=radical)
+<a href="https://shakyarohan.com.np" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rohan-Shakya&show_icons=true&theme=tokyonight"/>
+</a>
+<a href="https://shakyarohan.com.np" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Shakya&layout=compact&theme=tokyonight"/>
+</a>
 
 [website]: http://shakyarohan.com.np/
 [twitter]: https://twitter.com/rohan_saqya
