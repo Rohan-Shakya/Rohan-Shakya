@@ -44,6 +44,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Shakya&layout=compact&theme=tokyonight"/>
 </a>
 
+## Visitor's Count:
+![Visitor's Count](https://profile-counter.glitch.me/%7BRohan-Shakya%7D/count.svg)
+
 [website]: http://shakyarohan.com.np/
 [twitter]: https://twitter.com/rohan_saqya
 [facebook]: https://www.facebook.com/profile.php?id=100010495748087
