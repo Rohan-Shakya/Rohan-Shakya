@@ -1,4 +1,4 @@
-### Hi there, I'm [Rohan][website] 👋
+# Hi there, I'm [Rohan][website] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
 
 ## I'm a Student and Developer!
 
