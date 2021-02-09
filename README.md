@@ -4,8 +4,7 @@
 
 - 🔭 I’m studying Bachelor's in Sagarmatha College of Science and Technology.
 - 🌱 I’m currently learning everything. 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects & learn more.
-- ⚡ Fun fact: I love to draw and listen musics.
+- 🥅 2021 Goals: Focus on programming techniques, problem solving, and analytical skills.
 
 ### Connect with me:
 
@@ -48,8 +47,6 @@
 
 <img src='https://github-profile-trophy.vercel.app/?username=Rohan-Shakya&theme=dracula&column=7&margin-w=15&margin-h=15%20(https://github.com/ryo-ma/github-profile-trophy)' />
 
- ## Visitor's Count:
- ![Visitor's Count](https://profile-counter.glitch.me/%7BRohan-Shakya%7D/count.svg)
 
 [website]: http://shakyarohan.com.np/
 [twitter]: https://twitter.com/rohan_saqya
