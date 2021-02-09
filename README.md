@@ -13,6 +13,8 @@
 [<img align="left" alt="Rohan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Rohan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Rohan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+<br /><br />
+[![Gmail Badge](https://img.shields.io/badge/-rohanshakya254@gmail.com-139AF2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rohanshakya254@gmail.com)](mailto:rohanshakya254@gmail.com)
 
 <br />
 
