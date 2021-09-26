@@ -2,9 +2,9 @@
 
 ## I'm a Student and Developer!
 
-- :desktop_computer: I am working as a Front-end Software Engineer at
+- :desktop_computer: I am working as a Software Engineer at
   <a href="https://lancemeup.com/" target="_blank">Lanceme Up</a>.
-- 🌱 I’m currently learning Django, FastAPI, NextJS, React-Native.
+- 🌱 I’m currently learning FastAPI, Electron.js, and Microservices.
 - 🔭 I’m studying Bachelor's in Sagarmatha College of Science and Technology.
 - 🥅 2021 Goals: Focus on programming techniques, problem solving, and analytical skills.
 
