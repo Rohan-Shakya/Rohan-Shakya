@@ -2,6 +2,7 @@
 
 ## I'm a Student and Developer!
 
+- 🤓 Self Taught Developer.
 - :desktop_computer: I am working as a Software Engineer at
   <a href="https://lancemeup.com/" target="_blank">Lanceme Up</a>.
 - 🌱 I’m currently learning FastAPI, Electron.js, and Microservices.
