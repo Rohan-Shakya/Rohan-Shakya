@@ -7,7 +7,7 @@
   <a href="https://lancemeup.com/" target="_blank">Lanceme Up</a>.
 - 🌱 I’m currently learning FastAPI, Electron.js, and Microservices.
 - 🔭 I’m studying Bachelor's in Sagarmatha College of Science and Technology.
-- 🥅 2021 Goals: Focus on programming techniques, problem solving, and analytical skills.
+- 🥅 2022 Goals: Focus on programming techniques, problem solving, and analytical skills.
 
 ### Connect with me:
 
@@ -31,16 +31,13 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/javascript.png" />
 <img align="left" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/ts.png" />
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/python.png" />
-<img align="left" alt="c++" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/cpp.png" />
 <img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/react.png" />
 <img align="left" alt="Nextjs" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/next_logo.png" />
-<img align="left" alt="graphQL" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/graphql.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/nodejs.png" />
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/django.png" />
 <img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/flutter.png" />
 <img align="left" alt="postgresSQL" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/postgresSQL.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/git.png" />
-<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/linux.png" />
 
 ## <br />
 
