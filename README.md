@@ -17,6 +17,7 @@ I'm Rohan Shakya, a passionate Frontend Developer with 3.5+ years of diverse exp
 
 [<img align="left" alt="Rohan | LinkedIn" width="22px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/linked.png" />][linkedin]
 [<img align="left" alt="Rohan | Twitter" width="22px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/twitter.png" />][twitter]
+[<img align="left" alt="Rohan | LeetCode" width="22px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/leetcode.svg" />][leetcode]
 <br /><br />
 
 [![Gmail Badge](https://img.shields.io/badge/-rohanshakya254@gmail.com-139AF2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rohanshakya254@gmail.com)](mailto:rohanshakya254@gmail.com)
@@ -44,3 +45,4 @@ Thanks for dropping by, and happy coding! 🚀
 [website]: https://www.shakyarohan.com.np/
 [twitter]: https://twitter.com/rohan_saqya/
 [linkedin]: https://www.linkedin.com/in/rohan-shakya/
+[leetcode]: https://leetcode.com/Rohan-Shakya/
