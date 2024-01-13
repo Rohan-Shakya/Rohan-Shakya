@@ -11,7 +11,6 @@ I'm Rohan Shakya, a passionate Frontend Developer with 3.5+ years of diverse exp
 - 🌱 Currently diving into advanced Next.js 14 features and exploring Three.js
 - 💬 Ask me about React, Vue, Next.js, Node.js, PHP, Tailwind CSS, Bootstrap, and SCSS! 😊
 - 📫 How to reach me: contact@shakyarohan.com.np
-- 😄 Pronouns: Rohan
 
 ### Connect with me:
 
