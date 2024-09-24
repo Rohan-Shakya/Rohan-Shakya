@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm thrilled to have you here.
 
 ## About Me
 
-I'm Rohan Shakya, a passionate Frontend Developer with 3.5+ years of diverse experience. I've worked on a range of projects, from freelance work to my current role as a Lead Developer at Morgenland Teppiche. My journey in the world of coding and tech has been incredible, and I'm constantly exploring new ways to learn and grow.
+I'm Rohan Shakya, a passionate Frontend Developer with 4+ years of diverse experience. I've worked on a range of projects, from freelance work to my current role as a Lead Developer at Morgenland Teppiche. My journey in the world of coding and tech has been incredible, and I'm constantly exploring new ways to learn and grow.
 
 ## What You'll Find Here
 
