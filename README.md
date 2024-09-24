@@ -19,7 +19,7 @@ I'm Rohan Shakya, a passionate Frontend Developer with 4+ years of diverse exper
 [<img align="left" alt="Rohan | LeetCode" width="22px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/leetcode.svg" />][leetcode]
 <br /><br />
 
-[![Gmail Badge](https://img.shields.io/badge/-rohanshakya254@gmail.com-139AF2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rohanshakya254@gmail.com)](mailto:rohanshakya254@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-contact@shakyarohan.com.np-139AF2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@shakyarohan.com.np)](mailto:contact@shakyarohan.com.np)
 
 <a href="https://shakyarohan.com.np" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rohan-Shakya&show_icons=true&theme=tokyonight"/>
