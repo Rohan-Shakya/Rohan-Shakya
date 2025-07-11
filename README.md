@@ -4,13 +4,18 @@ Welcome to my GitHub! I'm thrilled to have you here.
 
 ## About Me
 
-I'm Rohan Shakya, a passionate Frontend Developer with 4+ years of diverse experience. I've worked on a range of projects, from freelance work to my current role as a Lead Developer at Morgenland Teppiche. My journey in the world of coding and tech has been incredible, and I'm constantly exploring new ways to learn and grow.
+I'm Rohan Shakya — a developer with 5+ years of experience in crafting modern, responsive, and performant web applications. My journey started with design and code, and it's now evolving toward integrating **AI into real-world products**.
 
-## What You'll Find Here
+Currently, I'm focused on building **LLM-integrated tools**, exploring the edge of **Next.js 15**, and advancing into **AI-native architectures** using technologies like `LangChain` and `OpenAI`.
 
-- 🌱 Currently diving into advanced Next.js 14 features and exploring Three.js
-- 💬 Ask me about React, Vue, Next.js, Node.js, PHP, Tailwind CSS, Bootstrap, and SCSS! 😊
-- 📫 How to reach me: contact@shakyarohan.com.np
+## What I'm Working On
+
+- 🤖 **AI Projects**: Custom chatbots, RAG systems, AI copilots, and smart UIs
+- ⚡ **Next.js 15 + tRPC**: Cutting-edge fullstack web development
+- 🧠 **LLM Integrations**: OpenAI, Claude, Hugging Face
+- 🧰 **Learning**: LangChain, vector databases, function calling, agent workflows
+- 🌐 **Frontend Innovations**: Tailwind CSS, TypeScript, SCSS, advanced component design
+
 
 ### Connect with me:
 
